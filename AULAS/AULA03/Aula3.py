@@ -2,6 +2,6 @@ marido = "Krossby"
 pet = "Lily"
 esposa = "Vera"
 
-familia = marido + " " + pet + " " + esposa
+familia = " Casal " + marido + " e " + esposa + " tem um pet de nome " + pet
 
 print(familia)
